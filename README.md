@@ -25,7 +25,7 @@ For this project, I created a body mass index calculator. The program takes in t
 To run and use this program is necessary to install a recent version of Python that can be found at https://www.python.org/downloads/.
 
 ## 5. Usage:
-Open and run the file bmi_calculator.py. Follow the instructions displayed on the console and insert the necessary inputs to get the output.<br>
+Copy and run the code contained inside the file bmi_calculator.py on your terminal or IDE. Follow the instructions displayed on the console and insert the necessary inputs to get the output.<br>
 Following you can find a screenshot that shows how the program should run:<br><br>
 ![Program example](https://github.com/Salvatore1024/BMI-Calculator/blob/main/screenshot.png?raw=true)
 **- Be sure to have on your machine a recent and correctly working version of Python.**
